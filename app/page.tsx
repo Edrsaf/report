@@ -5,7 +5,7 @@ export default function Home() {
   return (
       <ul>
         <li>
-          <Link href="/report">Report</Link>
+          <a href="/report">Report</a>
         </li>
       </ul>
   );
